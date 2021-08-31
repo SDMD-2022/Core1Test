@@ -2,7 +2,7 @@
 
 This is a test file for Core 1.
 
-Please copy the file into your androidTest directory. You will need to edit the package name, as well as add `androidTestImplementation 'androidx.test:rules:1.4.0-beta02'` to your Gradle file (app level). 
+Please copy the file into your androidTest directory. You will need to edit the package name, as well as add `androidTestImplementation 'androidx.test:rules:1.4.0-beta02'` to your Gradle file (app level). (Please see the latest version numbers at https://developer.android.com/jetpack/androidx/releases/test, however this was tested with 1.4.0-beta02.)
 
 To run the tests, click on the arrows next to `class MainActivityTest`. This will open an emulator (or use your device)  and run through the steps in the tests. Test statuses will be shown at the bottom of the IDE (under Run). 
 
